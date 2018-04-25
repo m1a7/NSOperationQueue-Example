@@ -4,7 +4,7 @@
 
 # NSOperationQueue
 
-[See my pdf documention on Russian language]()
+[See my pdf documention on Russian language](https://github.com/m1a7/NSOperationQueue-Example/blob/master/Documentation/NSOperation-pdf.pdf)
 
 Snippet of code (Work with NSOperation)
 <br>
